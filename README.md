@@ -1,4 +1,3 @@
-# Data-Engineering-Case-Study
 # AdvertiseX Data Engineering Case Study
 
 ## Project Structure
